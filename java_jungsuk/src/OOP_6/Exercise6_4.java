@@ -1,4 +1,4 @@
-package OOP_6;
+ package OOP_6;
 
 public class Exercise6_4 {
 
